@@ -4,7 +4,8 @@ function Navbar() {
   return (
     <div className="navbar-container">
       <div className="logo-div">
-        <h1>DHEERAJ</h1>
+        <p>DHEERAJ</p>
+        <h6>Developer</h6>
       </div>
       <nav className='nav-menu'>
         <ul>
